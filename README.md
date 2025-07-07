@@ -61,7 +61,9 @@ Hey there! I’m **Pratik Mittal**, a passionate software engineer with 6+ years
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratikmittal911"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin"/></a>
-  [📬 mittalpratik1109@gmail.com](mailto:mittalpratik1109@gmail.com)
+  <a href="mailto:mittalpratik1109@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://medium.com/@mittalpratik1109"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium"/></a>
 </p>
 
